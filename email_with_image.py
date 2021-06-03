@@ -4,7 +4,7 @@ from email.message import EmailMessage
 
 Sender_Email = "aj2215singh@gmail.com"
 Reciever_Email = "14.akansha.chhattri@gmail.com"
-Password = "dlbvjiqitkksjaix"
+Password = "dlb*******************ksjaix"
 
 newMessage = EmailMessage()                         
 newMessage['Subject'] = "Check out the new logo" 
