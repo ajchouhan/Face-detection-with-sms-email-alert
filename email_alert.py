@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 
 sender_email = "aj2215singh@gmail.com"
 rec_email = "14.akansha.chhattri@gmail.com"
-password = "dlbvjiqitkksjaix"
+password = "dlbk***********ksjaix"
 message = "Face detacted, alert"
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()
