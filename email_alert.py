@@ -16,6 +16,3 @@ server.sendmail(sender_email, rec_email, message)
 print("Email send" , rec_email)
 
 
-
-with open('', 'file_open_mode') as variable_name:
-    variable_for_storing_image_data = variable_name.read()
